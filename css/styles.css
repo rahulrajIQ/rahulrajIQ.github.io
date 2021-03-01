@@ -451,6 +451,9 @@ color: #FDFDFD !important;
 text-align: right;
 font-weight: 600;
 padding-right: 0px;
+padding-right: 0px;
+overflow: hidden;
+white-space: nowrap;
 }
 .progress {
 border-radius: 10px;
