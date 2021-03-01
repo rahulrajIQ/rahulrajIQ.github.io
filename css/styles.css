@@ -452,7 +452,7 @@ text-align: right;
 font-weight: 600;
 padding-right: 0px;
 padding-right: 0px;
-overflow: hidden;
+overflow: visible;
 white-space: nowrap;
 }
 .progress {
