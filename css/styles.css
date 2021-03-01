@@ -450,7 +450,7 @@ color: #FDFDFD !important;
 .skilltitle {
 text-align: right;
 font-weight: 600;
-padding-right: 1px;
+padding-right: 3px;
 overflow: visible;
 white-space: nowrap;
 }
